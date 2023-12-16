@@ -1,2 +1,6 @@
-# MaxJohnson714.github.io
-MaxJohnson714.github.io/portfolio
+# Analytics 
+
+###Education
+University of Texas at Arlington – Arlington, TX
+B.S. Information Systems, Graduation Date: Spring 2024
+
