@@ -1,5 +1,5 @@
 # Resume  
- #### Technical skills: SQl, Excel, Tableau
+ ### Technical skills: SQl, Excel, Tableau
 ### Education
 University of Texas at Arlington : Arlington, TX
 B.S. Information Systems, Graduation Date: Spring 2024
