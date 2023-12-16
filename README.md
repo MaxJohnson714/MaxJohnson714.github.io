@@ -1,7 +1,7 @@
-# Analytics 
-
+# Resume  
+ #### Technical skills: SQl, Excel, Tableau
 ### Education
-University of Texas at Arlington – Arlington, TX
+University of Texas at Arlington : Arlington, TX
 B.S. Information Systems, Graduation Date: Spring 2024
 
 ### Certificates/Certifications
@@ -21,13 +21,6 @@ Package Handler, United Parcel Service (UPS) , Arlington, TX, June 2020 – Pres
 -	Collaborate with leadership and other departments to continue and improve workflow processes
 -	Regulate the processes and ensure quality of all customer packages and belongings
 -	Collaborate with and assist other team members when needed to increase work production
-
-### Skills
--	Create various representations of collected data using data visualization tools (Tableau and Power BI)
--	Present analyzed data to leadership and correlate data to business needs
--	Microsoft Office (Word, PowerPoint, Excel, OneDrive, PowerBI, SharePoint)
--	Computing languages (R, Python, SQL, Oracle, MS SQL Server, PostgeSQL)
--	Strong communication, collaboration, project development and time management 
 
 ### References 
 Alexandria Rogers, 972-689-4941
