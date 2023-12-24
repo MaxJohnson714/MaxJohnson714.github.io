@@ -6,7 +6,8 @@ B.S. Information Systems, Graduation Date: Spring 2024
 
 ### Certificates/Certifications
 Google Data Analytics, Coursera, Issued 8/20/2023
-
+### Projects
+Video Games Marketshare- [Link](https://github.com/MaxJohnson714/Video-Game-Project-)
 ### Work Experience
 Program Operations Intern, Curls for Queens Inc., Arlington, TX, June 2023 – August 2023
 -	Identify and find solutions for complex data issues between reports, user interfaces, and relational databases 
