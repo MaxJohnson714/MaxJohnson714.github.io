@@ -12,6 +12,7 @@ Google Data Analytics, Coursera, Issued 8/20/2023
 
 ### Projects:
 Video Game Market share - [Link](https://github.com/MaxJohnson714/Video-Game-Project-)
+Data Cleaning Project - [Link](https://github.com/MaxJohnson714/Cleaning-Data)
 
 ### Skills
 - Create various representations of collected data using data visualization tools (Tableau and Power BI)
